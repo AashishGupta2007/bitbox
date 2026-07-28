@@ -1,7 +1,7 @@
 # tool: octal_to_decimal
 # description: Converts an octal string to its decimal integer value
 # author: @selvakanthanjagavan-byte
-# example: octal_to_decimal 77 to 63
+# example: "octal_to_decimal 77" -> "63"
 
 def run(octal: str) -> str:
     try:
