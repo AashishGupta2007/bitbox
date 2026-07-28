@@ -25,6 +25,9 @@ jobs:
       - name: Authenticate gh
         run: echo "${{ secrets.GITHUB_TOKEN }}" | gh auth login --with-token
 
+      - name: Reload queue from ammunition
+        run: python issue-manager/reload.py
+
       - name: Fire issues
         run: python issue-manager/fire.py
 
