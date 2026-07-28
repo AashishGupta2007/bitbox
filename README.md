@@ -100,10 +100,11 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for full guidelines. The short version:
 | [@Evarline](https://github.com/Evarline) | decimal_to_hex |
 | [@PriyadharshiniRVP](https://github.com/PriyadharshiniRVP) | current_utc |
 | [@shayneww](https://github.com/shayneww) | env_parse |
-| [@selvakanthanjagavan-byte](https://github.com/selvakanthanjagavan-byte) | html_escape, lcm |
+| [@selvakanthanjagavan-byte](https://github.com/selvakanthanjagavan-byte) | html_escape, lcm, octal_to_decimal |
 | [@fazalpsinfo-cmyk](https://github.com/fazalpsinfo-cmyk) | error handling (get_description) |
 | [@Ayush-0918](https://github.com/Ayush-0918) | decimal_to_binary |
 | [@bidisha1005](https://github.com/bidisha1005) | sha256_hash |
+| [@HeaTTap](https://github.com/HeaTTap) | is_happy_number |
 
 <!-- Contributors are added automatically after PRs are merged -->
 
