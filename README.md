@@ -108,4 +108,3 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for full guidelines. The short version:
 | [@imnaur](https://github.com/imnaur) | is_empty_or_whitespace, is_numeric |
 
 <!-- Contributors are added automatically after PRs are merged -->
-
