@@ -105,6 +105,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for full guidelines. The short version:
 | [@Ayush-0918](https://github.com/Ayush-0918) | decimal_to_binary |
 | [@bidisha1005](https://github.com/bidisha1005) | sha256_hash |
 | [@HeaTTap](https://github.com/HeaTTap) | is_happy_number |
+| [@imnaur](https://github.com/imnaur) | is_empty_or_whitespace, is_numeric |
 
 <!-- Contributors are added automatically after PRs are merged -->
 
